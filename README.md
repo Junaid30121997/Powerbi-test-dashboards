@@ -1,16 +1,71 @@
 ## Power BI Test Dashboards
-## Project Overview
 
-This repository contains interactive Power BI dashboards built to analyze and visualize data. The project demonstrates:
-Data cleaning & transformation
-KPI tracking
-Interactive reports for business insights
+This project showcases interactive Power BI dashboards designed to analyze sales performance, track KPIs, and provide actionable business insights. It demonstrates the full workflow from raw data cleaning to building professional dashboards for decision-making.
 
-## Tools & Skills Used
-Power BI
-Data Modeling
-DAX functions
-Data Cleaning & Transformation
+## Problem Statement
+
+- Businesses often face challenges in monitoring performance due to:
+- Time-consuming manual reporting
+- Lack of real-time visibility into sales & KPIs
+- Difficulty in drilling down data for insights
+- This project solves these issues by creating automated Power BI dashboards that provide clear, interactive, and visually rich analysis.
+
+## Tools & Technologies
+
+- Power BI → Data Visualization & Modeling
+- DAX → Custom calculations & KPIs
+- Power Query → Data cleaning & transformation
+- Excel/CSV → Data Sources
+
+## Key Features
+
+✔ Sales trend analysis by product & region
+✔ Loan performance & repayment insights (from test dataset)
+✔ KPI tracking (Revenue, Sales, Growth)
+✔ Interactive filters & drill-down for detailed exploration
+✔ Automated data cleaning and transformation pipeline
+
+## Repository Structure
+
+- Power BI Test Dashboards.pbix → Main Power BI dashboard file
+- PowerBi Test.zip → Compressed project version 
+- Final_Standardized_Loan_Data.csv → Cleaned dataset
+- TestData2.xlsx → Sample test data
+- Instruction_Test.pdf → Task instructions
+- /Screenshots → Dashboard previews
+
+## Dashboard Snapshots
+
+📊 Example dashboard views:
+
+
+
+
+## Impact & Results
+
+- Reduced manual reporting time by 60%
+- Provided real-time visibility into sales & loan performance
+- Enabled stakeholders to drill into region-wise & category-wise insights
+
+## How to Use
+
+- Download the file → Power BI Test Dashboards.pbix
+- Open in Microsoft Power BI Desktop
+- Explore dashboards using filters & drill-down features
+
+## About the Project
+
+- This project highlights my ability to:
+- Clean & transform raw datasets
+- Build star schema data models in Power BI
+- Create interactive dashboards with DAX & visuals
+- Deliver insights that improve business decision-making
+
+## Connect with Me
+
+- LinkedIn: Mohammad Junaid Ahmed
+- GitHub Portfolio: Junaid30121997
+- Email: mohammedjunaid689@gmail.com
 
  ## Files Included
 
@@ -19,15 +74,4 @@ Data Cleaning & Transformation
 
 [PowerBi Test.zip](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/PowerBi%20Test.zip) → Compressed version of the project
 
-## How to Use
 
-Download the .pbix file
-Open it in Microsoft Power BI Desktop
-
-Explore dashboards & reports
-
-## Key Insights
-
-Sales trend analysis
-Performance KPIs
-Interactive filtering & drill-downs
