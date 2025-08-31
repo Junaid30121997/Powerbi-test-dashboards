@@ -27,7 +27,7 @@ This project showcases interactive Power BI dashboards designed to analyze sales
 
 ## Repository Structure
 
-- Power BI Test Dashboards.pbix → Main Power BI dashboard file
+- [Power BI Test Dashboards.pbix ](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Power%20BI%20Test%20Dashboards.pbix)→ Main Power BI dashboard file
 - PowerBi Test.zip → Compressed project version 
 - [Final_Standardized_Loan_Data.csv](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Final_Standardized_Loan_Data.csv) → Cleaned dataset
 - TestData2.xlsx → Sample test data
