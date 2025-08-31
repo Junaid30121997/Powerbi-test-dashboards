@@ -36,12 +36,11 @@ This project showcases interactive Power BI dashboards designed to analyze sales
 - [Screenshots](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Screenshot%202025-08-16%20150441.png) → Dashboard previews
   
 ## Dashboard Snapshots
+### Sales Dashboard
+![Sales Dashboard](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Screenshot%202025-08-16%20150415.png?raw=true)
 
-![Sales Dashboard](Screenshot%202025-08-16%20150415.png)  
-![KPI Dashboard](Screenshot%202025-08-16%20150441.png)  
-
-
-
+### KPI Dashboard
+![KPI Dashboard](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Screenshot%202025-08-16%20150441.png?raw=true)
 
 
 ## Impact & Results
@@ -66,15 +65,10 @@ This project showcases interactive Power BI dashboards designed to analyze sales
 
 ## Connect with Me
 
-- LinkedIn: Mohammad Junaid Ahmed
-- GitHub Portfolio: Junaid30121997
+- LinkedIn: https://www.linkedin.com/in/mohammadjunaidahmed/
+- GitHub Portfolio: https://github.com/Junaid30121997
 - Email: mohammedjunaid689@gmail.com
 
- ## Files Included
 
-[Power BI Test Dashboards.pbix](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Power%20BI%20Test%20Dashboards.pbix) → Main Power BI dashboard file
-
-
-[PowerBi Test.zip](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/PowerBi%20Test.zip) → Compressed version of the project
 
 
