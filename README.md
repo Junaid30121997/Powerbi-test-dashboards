@@ -30,13 +30,16 @@ This project showcases interactive Power BI dashboards designed to analyze sales
 - [Power BI Test Dashboards.pbix ](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Power%20BI%20Test%20Dashboards.pbix)→ Main Power BI dashboard file
 - [PowerBi Test.zip ](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/PowerBi%20Test.zip)→ Compressed project version 
 - [Final_Standardized_Loan_Data.csv](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Final_Standardized_Loan_Data.csv) → Cleaned dataset
-- TestData2.xlsx → Sample test data
+- [TestData2.xlsx ](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/TestData2.xlsx)→ Sample test data
 - [Instruction_Test.pdf](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Instruction_Test.pdf) → Task instructions
 - [/Screenshots](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Screenshot%202025-08-16%20150415.png) → Dashboard previews
 - [Screenshots](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Screenshot%202025-08-16%20150441.png) → Dashboard previews
+  
 ## Dashboard Snapshots
 
-📊 Example dashboard views:
+![Sales Dashboard](Screenshot%202025-08-16%20150415.png)  
+![KPI Dashboard](Screenshot%202025-08-16%20150441.png)  
+
 
 
 
