@@ -33,7 +33,7 @@ This project showcases interactive Power BI dashboards designed to analyze sales
 - TestData2.xlsx → Sample test data
 - [Instruction_Test.pdf](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Instruction_Test.pdf) → Task instructions
 - [/Screenshots](https://github.com/Junaid30121997/Powerbi-test-dashboards/blob/main/Screenshot%202025-08-16%20150415.png) → Dashboard previews
-
+- Screenshots → Dashboard previews
 ## Dashboard Snapshots
 
 📊 Example dashboard views:
